@@ -1,0 +1,1 @@
+ros2 run parameter_publisher parameter_pub
