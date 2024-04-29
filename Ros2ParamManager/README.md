@@ -1,1 +1,1 @@
-ros2 run parameter_publisher parameter_pub
+ros2 run Ros2ParamManager parameter_pub
